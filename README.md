@@ -1,4 +1,4 @@
-\Pizza Sales Data Analysis using EDA
+Pizza Sales Data Analysis using EDA
 
 Overview
 
