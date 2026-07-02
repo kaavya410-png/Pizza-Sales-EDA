@@ -44,3 +44,4 @@ Files
 - `Project_Report.pdf` – Project Documentation
 - `Project_Presentation.pptx` – Presentation Slides
 - `requirements.txt` – Required Python Libraries
+- `images.png` - Visualizations
